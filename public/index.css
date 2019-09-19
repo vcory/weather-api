@@ -1,0 +1,24 @@
+body{
+    font-family: 'Advent Pro', sans-serif;
+    text-align: center;
+    background-color: #275DAD;
+    
+}
+
+#title{
+    /* text-align: center; */
+    
+}
+
+#summary{
+    
+}
+
+button{
+    
+    color: #ff9ff3;
+    border: 2px #222f3el;
+    border-color: #222f3el;
+    border-radius: 17px;
+
+}
